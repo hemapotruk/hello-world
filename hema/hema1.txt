@@ -1,0 +1,84 @@
+
+M.Vijay Rama Krishna					      E mail id : vijaym23693@gmail.com
+                  Mobile    :  +91-9666962266
+
+Professional summary:	
+	DevOps Consultant with 3years of experience in   Git, GitHub, Jenkins, Chef, AWS,  Shell scripting 
+	Working experience in continuous integration using Git, GitHub,  Jenkins,  Chef 
+	Extensively worked on Jenkins for continuous integration and for End to End automation for all build and deployments.
+	Working experience in continuous delivery, Infrastructure automation using Chef.
+	Hands on experience in creating Chef Recipes, cookbooks for cloud automation (AWS) and Application deployment automation.
+	Good experience in Amazon Web Services (AWS), Creating EC2 Instances and configuring all necessary services.
+	Extensively used CodeCommit, CodePipeline.
+	Expertise in CodeDeploy, AWS OpsWork.
+	CloudWatch for monitoring server metrics, creating alarms & integrating with autoscaling.
+	Configured security groups, Network Access Control Lit, Routing Tables    
+	Managed Amazon Web Services like EC2, S3 bucket, RDS, EBS, ELB, Auto-Scaling, AMI, IAM through AWS Console 
+	Having good knowledge in Chef Enterprise Hosted as well as On-Premise, Installed Workstation, Bootstrapped Nodes, Wrote Recipes and Cookbooks and upload them to chef-server.
+	Working experience on operating systems like Windows, Linux, Unix etc.
+	Good knowledge of programming concept, OS related issues, Server configuration and builds and release process.
+	Ability to learn and master new technologies and also to deliver outputs in short deadlines.
+
+Educational Qualification:
+
+	Master of Computer Application from Jawaharlal Nehru Technological University (JNTU), Hyderabad.
+
+Work Experience:
+	Working as a ‘DevOps’ consultant in TCS from Aug 2014 to till date.
+
+
+
+
+Technical Skills:
+
+ Version Control system	GIT, GitHub, 
+Build and CI/CD tools	 Jenkins, 
+Configuration Management	Chef 
+Cloud Platform	Amazon Web Services, 
+Scripting languages	 Shell scripting, ruby
+Application server	Apache tomcat server 
+Operating system	Windows7,8,  RedHat , Linux
+
+Project#1:  
+Project			: Insurance Business Solution 
+Client			: BHHC, USA
+Environment		: GIT, Jenkins, JIRA, Weblogic,chef
+Operating System     	: RedHat Linux
+
+       Project description:
+
+          Carriers that are part of the Berkshire Hathaway group of insurance companies. Headquartered in Omaha, Nebraska, with more than 40 years in business, BHHC has grown from a regional  The Berkshire Hathaway Homestate Companies is a group of six insurance organization to a national insurance group, offering insurance products from coast to coast,The Project aims to build a critical data store to meet the critical reporting needs of users across different business streams
+
+Responsibilities: 
+	Creating CI/CD pipelines by integrating Git, GitHub, ant, maven, Jenkins, Chef, and AWS (provisioning).
+	Writing Chef Recopies, Cookbooks in Chef for Application Deployment automation, Cloud Infrastructure Automation.
+	Automating build process used for Java, Mule and Middleware applications using tools / automation framework like Jenkins 
+	Creating continuous deployment pipeline by creating component processes, Applications and adding environments into  handling deployments using code pipeline and AWS code deployment for various deployment scenarios like  Tomcat deployment, Multiple  applications deployment.
+	Involved in Release management like planning, scheduling, and deploying  Releases
+	Experience in AWS provisioning by creating EC2 Instances and configuring all necessary services like Security, EBS, and S3.
+	Involved in job scheduling for daily and nightly build activity using Jenkins.
+	Automating build process for creating JAR/WAR artifacts using Ant and Maven.
+	Creating new jobs in Jenkins and managing the build related issues. 
+	Coordinating with the Development team to fix the Build related issues.
+	Involved in POC projects for various clients.
+
+Project#2: 
+
+    Project	                      :  Coco-Cola Enterprises inc (CCE)
+    Client		          :  Coco-Cola (CCE)
+    Environment                     :  GIT, Maven, Jenkins, JIRA, Apache tomcat, shell scripting.
+    Operating System             :   Red Hat Linux
+
+Project description:
+                                     Coca-Cola is a carbonated soft drink sold in stores, restaurants, and vending machines throughout the world. It is produced by The Coca-Cola         Company of Atlanta, Georgia, and is often referred to simply as Coke (a registered trademark of The Coca-Cola Company in the United States since March 27, 1944). Originally intended as a patent medicine when it was invented in the late 19th century by John Pemberton, Coca-Cola was bought out by businessman Asa Griggs Candler, whose marketing tactics led Coke to its dominance of the world soft-drink market throughout the 20th century.
+    Responsibilities: 
+	Involved in DevOps POC’s by integrating Source controls tools, Build Tools, CI tools and CD tools to start new DevOps services in organization
+	Built up CI/CD pipeline using Git, ant, maven, Jenkins for JAVA and Middleware applications.  
+	Creating new jobs in Jenkins and managing the build related issues. 
+	Coordinating with the Development team to fix the Build related issues.
+	Creating various POC’s of CI/CD pipelines by integrating source control tools GIT, GitHub, Build tools like Ant and Maven, CI tool like Jenkins and Deployment automation tool like Chef 
+	 Writing recipes using RUBY DSL, creating cookbooks for infrastructure automation, application deployment automation and managing automation.
+	Given Demo to different clients on CI/CD pipelines to start DevOps services.
+	Attended various trainings on GIT, Ant, Maven, and Jenkins to create DevOps POC’s.
+	Good experience in Chef Infrastructure automation, infrastructure-as-a-code.
+	Application deployment using system center configuration manager.
