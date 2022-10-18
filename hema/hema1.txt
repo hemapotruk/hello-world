@@ -1,8 +1,6 @@
+hema
 
-M.Vijay Rama Krishna					      E mail id : vijaym23693@gmail.com
-                  Mobile    :  +91-9666962266
-
-Professional summary:	
+rofessional summary:	
 	DevOps Consultant with 3years of experience in   Git, GitHub, Jenkins, Chef, AWS,  Shell scripting 
 	Working experience in continuous integration using Git, GitHub,  Jenkins,  Chef 
 	Extensively worked on Jenkins for continuous integration and for End to End automation for all build and deployments.
